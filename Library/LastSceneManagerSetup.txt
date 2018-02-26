@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scences/S04_grassSnow.unity
+  isLoaded: 1
+  isActive: 1
